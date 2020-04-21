@@ -1,13 +1,20 @@
+/*
 * {
     background-color: rgb(58, 58, 58);
 }
+*/
 
 .title{
     color: azure;
     text-align: center;
+    background-color: rgb(58, 58, 58);
 }
 
 .video {
     color: azure;
     text-align: center;
+}
+
+.thevideo {
+    max-width: 100px;
 }

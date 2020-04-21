@@ -1,3 +1,4 @@
+
 var element = document.querySelector(".theoplayer-container");
 var player = new THEOplayer.Player(element, {
     libraryLocation: "https://cdn.myth.theoplayer.com/d018cc94-c830-413e-88b5-6f50da1eeff7"
