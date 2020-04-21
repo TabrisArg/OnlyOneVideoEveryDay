@@ -12,6 +12,7 @@ player.source = {
         "type": "application/x-mpegurl"
     }],
     // Advertisement configuration
+    
     ads: [{
         "sources": "//cdn.theoplayer.com/demos/preroll.xml",
         "timeOffset": "start",
